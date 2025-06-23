@@ -107,3 +107,4 @@ Machine Learning model implementation is a multi-step, iterative process that tr
 
 ** OUTPUT
 
+<img width="800" alt="Image" src="https://github.com/user-attachments/assets/808f405b-3c4d-4c36-bcb8-da49227b4b5d" />
